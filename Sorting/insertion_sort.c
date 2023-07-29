@@ -14,7 +14,7 @@ void insertionSort(int *arr,int size){
         }
         arr[j+1]=key;
     }
-    printf("%d\t%d\n\n",loop,comparison);
+    // printf("%d\t%d\n\n",loop,comparison);
 }
 
 void printArr(int *arr,int size){
